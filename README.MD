@@ -68,7 +68,7 @@ The first step in solving the question is understanding it. Once understood prop
 - The array's elements must sum to **target**.
 - The array should be of the smallest possible lexicographical value which satisfies both the above conditions.
 
-To satisy the above requirements we can take the following steps:
+To satisfy the above requirements we can take the following steps:
 
 - To produce **target** as sum of elements, we can make some elements negative and keep the rest as positive.
 - To produce the lowest possible value lexicographically, we must sort the array in non-decreasing order and we must try to have the lowest value element(s) possible.
